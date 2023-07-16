@@ -1,0 +1,10 @@
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="Jupiter Toys Parallel testing suite" >
+    <test name="Home Page Tests">
+
+        <classes>
+            <class name= "runner.TestRunner"/>
+        </classes>
+    </test>
+
+</suite> <!-- Suite -->
